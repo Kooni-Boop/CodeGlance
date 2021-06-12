@@ -1,8 +1,8 @@
-CodeGlance [![CircleCI](https://circleci.com/gh/Vektah/CodeGlance/tree/master.svg?style=svg)](https://circleci.com/gh/Vektah/CodeGlance/tree/master)
+CodeGlance2
 ==========
-
-Plugin Repository: http://plugins.jetbrains.com/plugin/7275  
-Latest build: https://github.com/Vektah/CodeGlance/releases
+Original CodeGlance: https://github.com/Vektah/CodeGlance
+Plugin Repository: https://plugins.jetbrains.com/plugin/15562-codeglance2
+Latest build: https://github.com/Kooni-Boop/CodeGlance2/Release
 
 InteliJ plugin that displays a zoomed out overview or minimap similar to the one found in Sublime into the editor pane. The minimap allows for quick scrolling letting you jump straight to sections of code.
 
@@ -15,12 +15,11 @@ InteliJ plugin that displays a zoomed out overview or minimap similar to the one
 
 ![Dracula](https://raw.github.com/Vektah/CodeGlance/master/pub/example.png)
 
-
 Building using Gradle
 ====================
 ```
-git clone https://github.com/Vektah/CodeGlance
-cd CodeGlance
+git clone https://github.com/Kooni-Boop/CodeGlance2
+cd CodeGlance2
 # run the tests
 ./gradlew test
 
